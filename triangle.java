@@ -21,6 +21,7 @@ public class Triangle
 	}
 	public static void main(String[] args) 
 	{
+		System.out.println("Lower Traingle is as shown below:");
 		draw(7);
 	}
 }
